@@ -16,6 +16,4 @@ chmod +x install-sb.sh
 * Backbox linux
 * Ubuntu 
 * Kali linux
-# Contact
-* [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
 
