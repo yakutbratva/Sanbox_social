@@ -18,9 +18,4 @@ chmod +x install-sb.sh
 * Kali linux
 # Contact
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
-# Authors :
-* facebook  : Imad
-* gmail     : Ha3MrX
-* instagram : thelinuxchoice
-* Twitter   : thelinuxchoice
-* SocialBox : Belahsan Ouerghi
+
