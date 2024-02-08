@@ -1,6 +1,6 @@
 #!/bin/bash
 #update sys repository
-sudo apt update 
+sudo apt update & apt upgrade -y 
 # install python 3 because the old one is obsolete
 sudo apt install python3 
 #clone and mkdir
